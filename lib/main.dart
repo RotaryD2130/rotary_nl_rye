@@ -159,7 +159,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData.dark(),
       // Provide dark theme.
       themeMode: ThemeMode.system,
-      title: 'YEP District 2130',
+      title: 'YEP District 2130 test',
       debugShowCheckedModeBanner: false,
       home: PageNavigator(),
       //routing in "lib/core/custom_routes.dart"
