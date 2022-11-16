@@ -487,7 +487,7 @@ class _NonPDFPageState extends State<NonPDFPage> {
       link: Uri.parse(
           'https://rotarynl.page.link/news?id=$id'), //change this to the url in the main.dart
       androidParameters: AndroidParameters(
-        packageName: 'com.caelitechnologies.rotary_nl_rye',
+        packageName: 'org.rotary2130.commyouth',
         minimumVersion: 1,
       ),
       iosParameters: IOSParameters(

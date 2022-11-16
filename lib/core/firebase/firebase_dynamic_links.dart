@@ -211,7 +211,7 @@ class ErrorPage extends StatelessWidget {
 //       link: Uri.parse(
 //           'https://rotarytestnl.page.link/$pathName?id=$id&name=$name'), //change this to the url in the main.dart
 //       androidParameters: AndroidParameters(
-//         packageName: 'com.caelitechnologies.rotary_nl_rye',
+//         packageName: 'org.rotary2130.commyouth',
 //         minimumVersion: 1,
 //       ),
 //       iosParameters: IosParameters(

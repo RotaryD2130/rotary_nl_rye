@@ -14,7 +14,7 @@ import 'package:url_launcher/url_launcher_string.dart';
 const APP_STORE_URL =
     'https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftwareUpdate?id=1567096118&mt=8';
 const PLAY_STORE_URL =
-    'https://play.google.com/store/apps/details?id=com.caelitechnologies.rotary_nl_rye';
+    'https://play.google.com/store/apps/details?id=org.rotary2130.commyouth';
 
 versionCheck(context) async {
   //Get Current installed version of app

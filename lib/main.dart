@@ -159,7 +159,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData.dark(),
       // Provide dark theme.
       themeMode: ThemeMode.system,
-      title: 'Rotary youth Exchange',
+      title: 'YEP District 2130',
       debugShowCheckedModeBanner: false,
       home: PageNavigator(),
       //routing in "lib/core/custom_routes.dart"

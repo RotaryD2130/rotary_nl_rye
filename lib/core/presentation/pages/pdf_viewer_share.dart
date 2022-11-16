@@ -218,7 +218,7 @@ class _PDFPageWithShareState extends State<PDFPageWithShare> {
       link: Uri.parse(
           'https://rotarynl.page.link/pdfUrl?url=$pdfUrl'), //change this to the url in the main.dart
       androidParameters: AndroidParameters(
-        packageName: 'com.caelitechnologies.rotary_nl_rye',
+        packageName: 'org.rotary2130.commyouth',
         minimumVersion: 1,
       ),
       iosParameters: IOSParameters(
