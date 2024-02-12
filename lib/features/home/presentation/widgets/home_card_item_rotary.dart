@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
 
 class HomeCardItemSingleRotary extends StatelessWidget {
   final String title;

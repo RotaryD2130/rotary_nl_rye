@@ -4,8 +4,8 @@ import 'package:flutter/services.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/prop.dart';
-import 'package:rotary_nl_rye/features/emergency/presentation/widgets/emergency_card_item.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/features/emergency/presentation/widgets/emergency_card_item.dart';
 
 class EmergencyPage extends StatefulWidget {
   @override

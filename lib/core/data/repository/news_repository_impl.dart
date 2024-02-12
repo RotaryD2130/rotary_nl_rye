@@ -3,12 +3,12 @@ import 'dart:async';
 import 'dart:convert';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/data/datasources/cache.dart';
-import 'package:rotary_nl_rye/core/data/datasources/config.dart';
-import 'package:rotary_nl_rye/core/data/datasources/firestore.dart';
-import 'package:rotary_nl_rye/core/data/datasources/http.dart';
-import 'package:rotary_nl_rye/core/domain/entities/news.dart';
-import 'package:rotary_nl_rye/core/domain/repository/news_repository.dart';
+import 'package:rotary2130_2140_rye/core/data/datasources/cache.dart';
+import 'package:rotary2130_2140_rye/core/data/datasources/config.dart';
+import 'package:rotary2130_2140_rye/core/data/datasources/firestore.dart';
+import 'package:rotary2130_2140_rye/core/data/datasources/http.dart';
+import 'package:rotary2130_2140_rye/core/domain/entities/news.dart';
+import 'package:rotary2130_2140_rye/core/domain/repository/news_repository.dart';
 import '../initData.dart';
 
 class NewsRepositoryImpl implements NewsRepository {
@@ -35,7 +35,9 @@ class NewsRepositoryImpl implements NewsRepository {
   Future<List<News>> getCachedNews() async {
     final List temp = json.decode(await cache.getByKey(Config.spNewsKey));
     final List<News> news = [];
-    temp.forEach((json) {news.add(News.fromJson(json));});
+    temp.forEach((json) {
+      news.add(News.fromJson(json));
+    });
     return news;
   }
 

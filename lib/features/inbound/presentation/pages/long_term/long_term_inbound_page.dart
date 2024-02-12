@@ -6,10 +6,10 @@ import 'package:flutter/services.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/presentation/widgets/show_alert_dialog.dart';
-import 'package:rotary_nl_rye/core/prop.dart';
-import 'package:rotary_nl_rye/features/inbound/presentation/pages/long_term/class_of/class_of.dart';
-import 'package:rotary_nl_rye/features/uniform_widgets/back_button.dart';
+import 'package:rotary2130_2140_rye/core/presentation/widgets/show_alert_dialog.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/features/inbound/presentation/pages/long_term/class_of/class_of.dart';
+import 'package:rotary2130_2140_rye/features/uniform_widgets/back_button.dart';
 import 'information/flight_and_arrival.dart';
 import 'information/insurance.dart';
 import 'information/language.dart';

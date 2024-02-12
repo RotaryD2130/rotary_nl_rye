@@ -1,5 +1,5 @@
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/features/inbound/presentation/models/ClassOf.dart';
+import 'package:rotary2130_2140_rye/features/inbound/presentation/models/ClassOf.dart';
 
 List<Inbounds> inboundList = [
   // Bence Német-Deák

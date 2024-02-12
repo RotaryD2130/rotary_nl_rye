@@ -8,15 +8,15 @@ import 'package:flutter_app_badger/flutter_app_badger.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/firebase/check_update.dart';
-import 'package:rotary_nl_rye/core/firebase/firebase_cloud_messaging.dart';
-import 'package:rotary_nl_rye/core/firebase/firebase_dynamic_links.dart';
-import 'package:rotary_nl_rye/core/prop.dart';
-import 'package:rotary_nl_rye/features/about/presentation/pages/about_page.dart';
-import 'package:rotary_nl_rye/features/contact/presentation/pages/contact_page.dart';
-import 'package:rotary_nl_rye/features/emergency/presentation/pages/emergency_page.dart';
-import 'package:rotary_nl_rye/features/home/presentation/pages/home_page.dart';
-import 'package:rotary_nl_rye/features/settings/presentation/pages/settings_page.dart';
+import 'package:rotary2130_2140_rye/core/firebase/check_update.dart';
+import 'package:rotary2130_2140_rye/core/firebase/firebase_cloud_messaging.dart';
+import 'package:rotary2130_2140_rye/core/firebase/firebase_dynamic_links.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/features/about/presentation/pages/about_page.dart';
+import 'package:rotary2130_2140_rye/features/contact/presentation/pages/contact_page.dart';
+import 'package:rotary2130_2140_rye/features/emergency/presentation/pages/emergency_page.dart';
+import 'package:rotary2130_2140_rye/features/home/presentation/pages/home_page.dart';
+import 'package:rotary2130_2140_rye/features/settings/presentation/pages/settings_page.dart';
 
 class PageNavigator extends StatefulWidget {
   @override

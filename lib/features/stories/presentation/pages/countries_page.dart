@@ -3,12 +3,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/domain/entities/exchange_student.dart';
-import 'package:rotary_nl_rye/core/domain/exchangeStudents.dart';
-import 'package:rotary_nl_rye/core/presentation/widgets/image_list_tile.dart';
-import 'package:rotary_nl_rye/core/prop.dart';
-import 'package:rotary_nl_rye/features/stories/models/country.dart';
-import 'package:rotary_nl_rye/features/uniform_widgets/back_button.dart';
+import 'package:rotary2130_2140_rye/core/domain/entities/exchange_student.dart';
+import 'package:rotary2130_2140_rye/core/domain/exchangeStudents.dart';
+import 'package:rotary2130_2140_rye/core/presentation/widgets/image_list_tile.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/features/stories/models/country.dart';
+import 'package:rotary2130_2140_rye/features/uniform_widgets/back_button.dart';
 import 'exchange_students_List.dart';
 
 class CountriesPage extends StatefulWidget {

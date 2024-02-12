@@ -7,13 +7,13 @@ import 'package:flutter_svg/svg.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/domain/entities/exchange_student.dart';
-import 'package:rotary_nl_rye/core/prop.dart';
-import 'package:rotary_nl_rye/features/contact/presentation/models/organization.dart';
-import 'package:rotary_nl_rye/features/inbound/presentation/models/ClassOf.dart';
-import 'package:rotary_nl_rye/features/outbound/presentation/models/ClassOf.dart';
-import 'package:rotary_nl_rye/features/stories/models/country.dart';
-import 'package:rotary_nl_rye/features/stories/presentation/pages/exchange_students_List.dart';
+import 'package:rotary2130_2140_rye/core/domain/entities/exchange_student.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/features/contact/presentation/models/organization.dart';
+import 'package:rotary2130_2140_rye/features/inbound/presentation/models/ClassOf.dart';
+import 'package:rotary2130_2140_rye/features/outbound/presentation/models/ClassOf.dart';
+import 'package:rotary2130_2140_rye/features/stories/models/country.dart';
+import 'package:rotary2130_2140_rye/features/stories/presentation/pages/exchange_students_List.dart';
 import '../../../features/uniform_widgets/uniform_circle_avatar.dart';
 
 class SVGListTile extends StatelessWidget {

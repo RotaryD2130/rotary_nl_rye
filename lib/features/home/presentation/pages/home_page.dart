@@ -7,20 +7,20 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/domain/entities/exchange_student.dart';
+import 'package:rotary2130_2140_rye/core/domain/entities/exchange_student.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
-import 'package:rotary_nl_rye/features/calendar/presentation/pages/events_page.dart';
-import 'package:rotary_nl_rye/features/forRotaryClubs/presentation/pages/rotary_club_info_page.dart';
-import 'package:rotary_nl_rye/features/home/presentation/widgets/carousel_display.dart';
-import 'package:rotary_nl_rye/features/home/presentation/widgets/home_card_item.dart';
-import 'package:rotary_nl_rye/features/home/presentation/widgets/home_card_item_rotary.dart';
-import 'package:rotary_nl_rye/features/home/presentation/widgets/home_card_item_single.dart';
-import 'package:rotary_nl_rye/features/inbound/presentation/pages/inbound_page.dart';
-import 'package:rotary_nl_rye/features/news/presentation/pages/news_page.dart';
-import 'package:rotary_nl_rye/features/outbound/presentation/pages/outbound_page.dart';
-import 'package:rotary_nl_rye/features/outbound/presentation/pages/short_term/camps_and_tours/widgets/loadCsv.dart';
-import 'package:rotary_nl_rye/features/programs/presentation/pages/program_page.dart';
-import 'package:rotary_nl_rye/features/stories/presentation/pages/countries_page.dart';
+import 'package:rotary2130_2140_rye/features/calendar/presentation/pages/events_page.dart';
+import 'package:rotary2130_2140_rye/features/forRotaryClubs/presentation/pages/rotary_club_info_page.dart';
+import 'package:rotary2130_2140_rye/features/home/presentation/widgets/carousel_display.dart';
+import 'package:rotary2130_2140_rye/features/home/presentation/widgets/home_card_item.dart';
+import 'package:rotary2130_2140_rye/features/home/presentation/widgets/home_card_item_rotary.dart';
+import 'package:rotary2130_2140_rye/features/home/presentation/widgets/home_card_item_single.dart';
+import 'package:rotary2130_2140_rye/features/inbound/presentation/pages/inbound_page.dart';
+import 'package:rotary2130_2140_rye/features/news/presentation/pages/news_page.dart';
+import 'package:rotary2130_2140_rye/features/outbound/presentation/pages/outbound_page.dart';
+import 'package:rotary2130_2140_rye/features/outbound/presentation/pages/short_term/camps_and_tours/widgets/loadCsv.dart';
+import 'package:rotary2130_2140_rye/features/programs/presentation/pages/program_page.dart';
+import 'package:rotary2130_2140_rye/features/stories/presentation/pages/countries_page.dart';
 
 class HomePage extends StatefulWidget {
   @override

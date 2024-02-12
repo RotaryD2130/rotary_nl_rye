@@ -9,11 +9,11 @@ import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/domain/entities/news.dart';
-import 'package:rotary_nl_rye/core/domain/news.dart';
-import 'package:rotary_nl_rye/features/news/presentation/pages/non_pdf_news.dart';
-import 'package:rotary_nl_rye/features/news/presentation/widgets/pdf_viewer.dart';
-import 'package:rotary_nl_rye/main.dart';
+import 'package:rotary2130_2140_rye/core/domain/entities/news.dart';
+import 'package:rotary2130_2140_rye/core/domain/news.dart';
+import 'package:rotary2130_2140_rye/features/news/presentation/pages/non_pdf_news.dart';
+import 'package:rotary2130_2140_rye/features/news/presentation/widgets/pdf_viewer.dart';
+import 'package:rotary2130_2140_rye/main.dart';
 
 Future<void> getToken() async {
   FirebaseMessaging.instance.getToken().then((token) {

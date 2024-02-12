@@ -7,7 +7,7 @@ import 'package:http/http.dart' as http;
 import 'package:table_calendar/table_calendar.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/features/calendar/models/event_result.dart';
+import 'package:rotary2130_2140_rye/features/calendar/models/event_result.dart';
 
 late Map<String, dynamic> data;
 //late String _title;

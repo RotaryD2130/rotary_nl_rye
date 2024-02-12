@@ -15,11 +15,11 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/lang/languages.dart';
-import 'package:rotary_nl_rye/core/presentation/widgets/photo_gallery/gallery_view.dart';
-import 'package:rotary_nl_rye/core/prop.dart';
-import 'package:rotary_nl_rye/features/settings/presentation/pages/contributors_page.dart';
-import 'package:rotary_nl_rye/features/settings/presentation/pages/social.dart';
+import 'package:rotary2130_2140_rye/core/lang/languages.dart';
+import 'package:rotary2130_2140_rye/core/presentation/widgets/photo_gallery/gallery_view.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/features/settings/presentation/pages/contributors_page.dart';
+import 'package:rotary2130_2140_rye/features/settings/presentation/pages/social.dart';
 
 class SettingsPage extends StatefulWidget {
   @override

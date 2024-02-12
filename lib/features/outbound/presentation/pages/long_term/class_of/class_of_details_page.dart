@@ -9,11 +9,11 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/presentation/widgets/full_screen_image.dart';
-import 'package:rotary_nl_rye/core/presentation/widgets/open_whatsapp.dart';
-import 'package:rotary_nl_rye/core/prop.dart';
-import 'package:rotary_nl_rye/features/outbound/presentation/models/ClassOf.dart';
-import 'package:rotary_nl_rye/features/uniform_widgets/back_button.dart';
+import 'package:rotary2130_2140_rye/core/presentation/widgets/full_screen_image.dart';
+import 'package:rotary2130_2140_rye/core/presentation/widgets/open_whatsapp.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/features/outbound/presentation/models/ClassOf.dart';
+import 'package:rotary2130_2140_rye/features/uniform_widgets/back_button.dart';
 
 class ClassOfDetails extends StatelessWidget {
   final Outbounds person;

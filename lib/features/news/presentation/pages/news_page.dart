@@ -7,10 +7,10 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/domain/news.dart';
-import 'package:rotary_nl_rye/features/news/presentation/pages/non_pdf_news.dart';
-import 'package:rotary_nl_rye/features/news/presentation/widgets/pdf_viewer.dart';
-import 'package:rotary_nl_rye/features/uniform_widgets/back_button.dart';
+import 'package:rotary2130_2140_rye/core/domain/news.dart';
+import 'package:rotary2130_2140_rye/features/news/presentation/pages/non_pdf_news.dart';
+import 'package:rotary2130_2140_rye/features/news/presentation/widgets/pdf_viewer.dart';
+import 'package:rotary2130_2140_rye/features/uniform_widgets/back_button.dart';
 import '../../../../core/domain/entities/news.dart';
 import '../../../../core/prop.dart';
 

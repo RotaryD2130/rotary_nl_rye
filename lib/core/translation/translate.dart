@@ -11,7 +11,7 @@ import 'package:internet_connection_checker/internet_connection_checker.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/translation/deeplSupportedLang.dart';
+import 'package:rotary2130_2140_rye/core/translation/deeplSupportedLang.dart';
 
 class Translate {
   static Future<Map<String, dynamic>> text(

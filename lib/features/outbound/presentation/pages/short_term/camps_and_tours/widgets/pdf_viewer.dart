@@ -14,8 +14,8 @@ import 'package:path_provider/path_provider.dart';
 import 'package:percent_indicator/circular_percent_indicator.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/prop.dart';
-import 'package:rotary_nl_rye/features/uniform_widgets/back_button.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/features/uniform_widgets/back_button.dart';
 import 'package:share_plus/share_plus.dart';
 
 // ignore: import_of_legacy_library_into_null_safe

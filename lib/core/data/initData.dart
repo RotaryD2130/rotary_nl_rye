@@ -1,10 +1,10 @@
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/data/datasources/cache.dart';
-import 'package:rotary_nl_rye/core/data/datasources/config.dart';
-import 'package:rotary_nl_rye/core/data/datasources/http.dart';
-import 'package:rotary_nl_rye/core/data/repository/header_image_repository_impl.dart';
-import 'package:rotary_nl_rye/core/data/repository/news_repository_impl.dart';
-import 'package:rotary_nl_rye/core/data/repository/stories_repository_impl.dart';
+import 'package:rotary2130_2140_rye/core/data/datasources/cache.dart';
+import 'package:rotary2130_2140_rye/core/data/datasources/config.dart';
+import 'package:rotary2130_2140_rye/core/data/datasources/http.dart';
+import 'package:rotary2130_2140_rye/core/data/repository/header_image_repository_impl.dart';
+import 'package:rotary2130_2140_rye/core/data/repository/news_repository_impl.dart';
+import 'package:rotary2130_2140_rye/core/data/repository/stories_repository_impl.dart';
 
 class Repo {
   final ApiResponse apiResponse = new ApiResponse();

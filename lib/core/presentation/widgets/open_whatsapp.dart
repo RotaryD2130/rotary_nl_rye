@@ -5,7 +5,7 @@ import 'dart:io';
 import 'package:url_launcher/url_launcher_string.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/presentation/widgets/show_alert_dialog.dart';
+import 'package:rotary2130_2140_rye/core/presentation/widgets/show_alert_dialog.dart';
 
 openwhatsapp(context, String tel) async {
   var whatsapp = tel;

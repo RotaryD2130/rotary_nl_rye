@@ -16,8 +16,8 @@ import 'package:table_calendar/table_calendar.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/prop.dart';
-import 'package:rotary_nl_rye/features/uniform_widgets/back_button.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/features/uniform_widgets/back_button.dart';
 import '../../data/utils.dart';
 import '../../models/event_result.dart';
 

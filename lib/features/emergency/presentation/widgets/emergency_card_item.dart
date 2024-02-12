@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class EmergencyCardItem extends StatefulWidget {

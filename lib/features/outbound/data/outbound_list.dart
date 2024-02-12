@@ -1,5 +1,5 @@
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/features/outbound/presentation/models/ClassOf.dart';
+import 'package:rotary2130_2140_rye/features/outbound/presentation/models/ClassOf.dart';
 
 List<Outbounds> outboundList = [
   // Norah van de Vegte

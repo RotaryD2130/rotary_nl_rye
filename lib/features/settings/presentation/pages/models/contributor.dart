@@ -1,5 +1,5 @@
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/presentation/models/image_list_tile_item.dart';
+import 'package:rotary2130_2140_rye/core/presentation/models/image_list_tile_item.dart';
 
 class Contributor extends ImageListTileItem {
   final String name;

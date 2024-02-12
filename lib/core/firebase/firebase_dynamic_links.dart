@@ -8,12 +8,12 @@ import 'package:flutter/material.dart';
 import 'package:firebase_dynamic_links/firebase_dynamic_links.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/domain/entities/news.dart';
-import 'package:rotary_nl_rye/core/domain/news.dart';
-import 'package:rotary_nl_rye/core/presentation/pages/pdf_viewer_share.dart';
-import 'package:rotary_nl_rye/features/news/presentation/pages/non_pdf_news.dart';
-import 'package:rotary_nl_rye/features/news/presentation/widgets/pdf_viewer.dart';
-import 'package:rotary_nl_rye/features/settings/presentation/pages/social.dart';
+import 'package:rotary2130_2140_rye/core/domain/entities/news.dart';
+import 'package:rotary2130_2140_rye/core/domain/news.dart';
+import 'package:rotary2130_2140_rye/core/presentation/pages/pdf_viewer_share.dart';
+import 'package:rotary2130_2140_rye/features/news/presentation/pages/non_pdf_news.dart';
+import 'package:rotary2130_2140_rye/features/news/presentation/widgets/pdf_viewer.dart';
+import 'package:rotary2130_2140_rye/features/settings/presentation/pages/social.dart';
 
 Future<void> initDynamicLinks(BuildContext context) async {
   NewsBloc _repo = NewsBloc();

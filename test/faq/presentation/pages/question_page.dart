@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/lang/languages.dart';
-import 'package:rotary_nl_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/core/lang/languages.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
 
 class QuestionPage extends StatefulWidget {
   @override

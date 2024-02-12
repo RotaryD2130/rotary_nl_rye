@@ -1,5 +1,5 @@
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/features/contact/presentation/models/organization.dart';
+import 'package:rotary2130_2140_rye/features/contact/presentation/models/organization.dart';
 
 List<Organization> mdjcList = [
   Organization(

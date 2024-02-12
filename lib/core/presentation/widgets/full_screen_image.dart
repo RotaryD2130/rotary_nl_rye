@@ -6,7 +6,7 @@ import 'package:flutter/services.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
 
 class FullScreenImage extends StatelessWidget {
   final String url;

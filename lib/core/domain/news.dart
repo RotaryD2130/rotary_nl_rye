@@ -3,9 +3,9 @@ import 'dart:async';
 import 'dart:convert';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/data/datasources/cache.dart';
-import 'package:rotary_nl_rye/core/data/datasources/config.dart';
-import 'package:rotary_nl_rye/core/data/initData.dart';
+import 'package:rotary2130_2140_rye/core/data/datasources/cache.dart';
+import 'package:rotary2130_2140_rye/core/data/datasources/config.dart';
+import 'package:rotary2130_2140_rye/core/data/initData.dart';
 import 'entities/news.dart';
 
 class NewsBloc {
@@ -24,7 +24,9 @@ class NewsBloc {
 
     final List temp = json.decode(await cache.getByKey(Config.spNewsKey));
     final List<News> news = [];
-    temp.forEach((json) {news.add(News.fromJson(json));});
+    temp.forEach((json) {
+      news.add(News.fromJson(json));
+    });
     _newsController.sink.add(news);
 
     return news;

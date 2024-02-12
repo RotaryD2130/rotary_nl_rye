@@ -8,10 +8,10 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/domain/entities/exchange_student.dart';
-import 'package:rotary_nl_rye/core/presentation/widgets/full_screen_image.dart';
-import 'package:rotary_nl_rye/core/presentation/widgets/native_video.dart';
-import 'package:rotary_nl_rye/features/uniform_widgets/back_button.dart';
+import 'package:rotary2130_2140_rye/core/domain/entities/exchange_student.dart';
+import 'package:rotary2130_2140_rye/core/presentation/widgets/full_screen_image.dart';
+import 'package:rotary2130_2140_rye/core/presentation/widgets/native_video.dart';
+import 'package:rotary2130_2140_rye/features/uniform_widgets/back_button.dart';
 import '../../../../core/prop.dart';
 
 class StoriesDisplay extends StatefulWidget {

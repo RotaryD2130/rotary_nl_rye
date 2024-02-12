@@ -6,7 +6,7 @@ import 'package:badges/badges.dart' as badges;
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
 
 class HomeCardItemSingle extends StatelessWidget {
   final String title;

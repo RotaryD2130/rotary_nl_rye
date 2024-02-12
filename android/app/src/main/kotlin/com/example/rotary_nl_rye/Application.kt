@@ -1,4 +1,4 @@
-package com.caelitechnologies.rotary_nl_rye
+package org.rotary2130.commyouth
 import io.flutter.app.FlutterApplication
 import io.flutter.plugin.common.PluginRegistry
 import io.flutter.plugin.common.PluginRegistry.PluginRegistrantCallback

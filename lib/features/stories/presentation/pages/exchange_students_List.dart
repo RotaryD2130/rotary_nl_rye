@@ -6,12 +6,12 @@ import 'package:flutter/services.dart';
 import 'package:flutter_svg/svg.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/domain/entities/exchange_student.dart';
-import 'package:rotary_nl_rye/core/presentation/widgets/image_list_tile.dart';
-import 'package:rotary_nl_rye/core/prop.dart';
-import 'package:rotary_nl_rye/features/stories/models/country.dart';
-import 'package:rotary_nl_rye/features/stories/presentation/pages/student_details.dart';
-import 'package:rotary_nl_rye/features/uniform_widgets/back_button.dart';
+import 'package:rotary2130_2140_rye/core/domain/entities/exchange_student.dart';
+import 'package:rotary2130_2140_rye/core/presentation/widgets/image_list_tile.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/features/stories/models/country.dart';
+import 'package:rotary2130_2140_rye/features/stories/presentation/pages/student_details.dart';
+import 'package:rotary2130_2140_rye/features/uniform_widgets/back_button.dart';
 
 class ExchangeStudentsPage extends StatelessWidget {
   final Country country;

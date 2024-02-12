@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
 
 class QuestionCardItem extends StatefulWidget {
   final String title, subtitle, cardTitle, cardText;

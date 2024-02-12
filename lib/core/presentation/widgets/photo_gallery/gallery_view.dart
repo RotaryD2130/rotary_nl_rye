@@ -11,9 +11,9 @@ import 'package:http/http.dart' as http;
 import 'package:transparent_image/transparent_image.dart';
 
 // 🌎 Project imports:
-import 'package:rotary_nl_rye/core/presentation/widgets/photo_gallery/view_photo_full_screen.dart';
-import 'package:rotary_nl_rye/core/prop.dart';
-import 'package:rotary_nl_rye/features/uniform_widgets/back_button.dart';
+import 'package:rotary2130_2140_rye/core/presentation/widgets/photo_gallery/view_photo_full_screen.dart';
+import 'package:rotary2130_2140_rye/core/prop.dart';
+import 'package:rotary2130_2140_rye/features/uniform_widgets/back_button.dart';
 
 //TODO still need to add this somewhere
 
