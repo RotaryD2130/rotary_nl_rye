@@ -63,18 +63,18 @@ class _HowToSignUpPageState extends State<HowToSignUpPage> {
                     text: TextSpan(
                         style: Theme.of(context)
                             .textTheme
-                            .bodyText2!
+                            .bodyMedium!
                             .copyWith(fontSize: 14),
                         children: [
                       TextSpan(
                         text: 'Je stuurt een gezellig email bericht naar: ',
                       ),
                       TextSpan(
-                        text: 'interesse@rotaryyep.nl.',
+                        text: 'zomerkamp@rotaryyep.nl.',
                         style: TextStyle(color: Colors.blue),
                         recognizer: TapGestureRecognizer()
                           ..onTap = () {
-                            launchUrlString('mailto:interesse@rotaryyep.nl');
+                            launchUrlString('mailto:zomerkamp@rotaryyep.nl');
                           },
                       ),
                       TextSpan(
